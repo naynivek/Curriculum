@@ -4,7 +4,9 @@
 
 -----
 >Riacho Fundo II - DF - kevinyan.bsb@gmail.com
+>
 >Contato: (61) 996751948
+>
 >Brasileiro, casado, 28 anos
 
 ## Formação Acadêmica
