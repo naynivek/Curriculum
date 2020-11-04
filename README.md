@@ -20,11 +20,21 @@
 
 ## Experiência
 ----
+### Etus Digital 
+##### `Site Reliability Engineer` `2020`
+````
+Experiências adquiridas:
+ ● Configuração e manutenção de máquinas virtuais e contêineres no Google Cloud.
+ ● Gerenciamento de código CI/CD com Gitlab.
+ ● Estrutura de gerenciamento de projetos com Jira, Confluence.
+ ● Monitoramento de servidores e aplicações serverless.
+````
+
 ### UNESCO - United Nations for Educational Scientific and Cultural Organization
 ##### `Network Administrator` `2020`
 ````
 Experiências adquiridas:
- ● Configuração e manutenção de multidomínios na nuvem Azure.
+ ● Configuração e manutenção de e-mails com Office 365.
  ● Monitoramento avançado em Zabbix.
  ● Configuração e manutenção de ambientes em Docker.
 ````
