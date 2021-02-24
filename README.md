@@ -1,4 +1,4 @@
-![Profile](https://static.wixstatic.com/media/a98016_c69da48756504eb69b977d9874483aa7~mv2.png/v1/fill/w_146,h_122,al_c,q_85,usm_0.66_1.00_0.01/perfil_PNG.webp)
+![Profile](https://media-exp1.licdn.com/dms/image/C4D03AQHXk--DFAYqIg/profile-displayphoto-shrink_200_200/0/1614206834357?e=1619654400&v=beta&t=ikMU0PR7_hprbWUARsZiBADwA-y0zEKVm6ZCI5A9TbU)
 
 # Kevin Yan Matias Soares Matos
 
